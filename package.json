@@ -1,5 +1,4 @@
 {
-    "manifest_version": 2,
     "name": "text-to-speech",
     "description": "text-to-speech",
     "version": "1.0.0",
